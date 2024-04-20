@@ -1,0 +1,51 @@
+SILVER,홍길동,true,220000,Air Max 270
+GOLD,이영희,false,280000,Nike SB Dunk
+VIP,김철수,true,200000,Air Jordan 1
+SILVER,최지원,false,150000,Nike Dunk
+GOLD,박민지,true,250000,Air Max 97
+SILVER,김영민,true,180000,Nike Cortez
+VIP,정승호,false,300000,Air Max 90
+GOLD,송은지,true,230000,React Element 55
+SILVER,김민수,false,170000,Air Force 1
+VIP,박준혁,true,260000,Nike Free Run
+SILVER,이지수,false,190000,Air Max 270
+GOLD,정민우,true,240000,Nike SB Dunk
+VIP,김하늘,false,210000,Air Jordan 1
+SILVER,최동현,true,170000,Nike Dunk
+GOLD,박지원,false,290000,Air Max 97
+SILVER,이나리,true,230000,React Element 55
+VIP,황진영,false,180000,Nike Cortez
+SILVER,김도현,true,200000,Air Force 1
+GOLD,장서연,false,240000,Nike Free Run
+VIP,유재석,true,280000,Air Max 90
+SILVER,박성호,false,220000,Nike Dunk
+GOLD,한지민,true,230000,Nike Cortez
+VIP,강동원,false,200000,Air Max 97
+SILVER,김태희,true,190000,Air Max 270
+GOLD,조인성,false,280000,Nike SB Dunk
+SILVER,이승기,true,220000,Air Force 1
+VIP,한예슬,false,210000,Air Jordan 1
+SILVER,유승호,true,240000,Air Max 90
+GOLD,박소담,false,150000,Nike Free Run
+SILVER,이민호,true,260000,React Element 55
+VIP,박민지,false,250000,Nike Cortez
+GOLD,김태희,true,180000,Air Max 270
+SILVER,김철수,false,200000,Nike Dunk
+VIP,이영희,true,220000,Air Max 97
+SILVER,정승호,false,230000,React Element 55
+GOLD,김영민,true,210000,Air Jordan 1
+SILVER,이지수,false,240000,Nike Dunk
+VIP,박준혁,true,170000,Air Max 97
+GOLD,최지원,false,260000,Nike Cortez
+SILVER,박민지,true,190000,Nike Free Run
+VIP,홍길동,false,280000,Air Max 90
+SILVER,한지민,true,220000,Air Jordan 1
+GOLD,김철수,false,230000,Air Max 270
+SILVER,이영희,true,150000,Nike SB Dunk
+VIP,박준혁,false,290000,Nike Dunk
+SILVER,박민지,true,180000,Air Max 97
+GOLD,김태희,false,200000,React Element 55
+SILVER,정승호,true,170000,Nike Cortez
+VIP,최지원,false,210000,Air Force 1
+GOLD,김민수,true,240000,Air Max 90
+끝
